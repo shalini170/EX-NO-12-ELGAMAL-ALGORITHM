@@ -86,9 +86,7 @@ int main() {
 
 ![image](https://github.com/user-attachments/assets/1f97e566-c56e-44f5-be46-409e527b20dc)
 
-##result:
 
-The program is executed successfully.
 
 
 
