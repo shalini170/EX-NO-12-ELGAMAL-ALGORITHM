@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/14772ca2-e5ad-4c18-9855-238cfe210e90)# EX-NO-12-ELGAMAL-ALGORITHM
+# EX-NO-12-ELGAMAL-ALGORITHM
 
 ## AIM:
 To Implement ELGAMAL ALGORITHM
